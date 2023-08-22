@@ -1,0 +1,17 @@
+* {
+    font-family: Arial, "Century Gothic", sans-serif;
+    line-height: 1.5;
+}
+
+img {
+    border-color: black;
+    border-style: groove;
+    height: auto;
+    width: 200px;
+}
+
+.recipe-card {
+    border-style: groove;
+    border: black;
+    background-color:aliceblue
+}
