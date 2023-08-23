@@ -6,6 +6,9 @@
 h1 {
     background-color: black;
     color: white;
+    padding-left: 10px;;
+    width: 300px;
+    margin-right: auto;
 }
 
 img {
@@ -13,10 +16,20 @@ img {
     border-style: groove;
     height: auto;
     width: 200px;
+    margin: 0 auto;
+}
+
+h3 {
+    margin: 20px;
 }
 
 .recipe-card {
     border-style: groove;
     border: black;
-    background-color:aliceblue
+    background-color:aliceblue;
+}
+
+.homepage-link {
+    color: white;
+    background-color: black;
 }
