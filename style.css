@@ -10,25 +10,3 @@ h1 {
     width: 300px;
     margin-right: auto;
 }
-
-img {
-    border-color: black;
-    border-style: groove;
-    height: auto;
-    width: 200px;
-}
-
-h3 {
-    margin: 20px;
-}
-
-.recipe-card {
-    border-style: groove;
-    border: black;
-    background-color:aliceblue;
-}
-
-.homepage-link {
-    color: white;
-    background-color: black;
-}
