@@ -18,17 +18,26 @@ img {
     width: 200px;
 }
 
+.description {
+    margin-top: -18px;
+}
+
 h3 {
-    margin: 20px;
+    margin: 10px;
 }
 
 .recipe-card {
     border-style: groove;
     border: black;
-    background-color:aliceblue;
+    background-color:lightgray;
+    width: 500px;
+    padding: 3px;
+    margin-top: -5px;
+    margin-bottom: 10px;
 }
 
 .homepage-link {
     color: white;
+    padding: 5px;
     background-color: black;
 }
